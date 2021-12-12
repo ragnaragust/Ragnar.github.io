@@ -1,0 +1,16 @@
+body {
+	max-width: 80em;
+	min-width: 30em;
+	margin: 0 auto;
+	border: 2px solid black;
+	background: linear-gradient(to top, #990044 0%, #FFFF00 100%);
+}
+html {
+	background: orange;
+}
+.listi {
+	font-size: 25px;
+	display: grid;
+	grid-template-columns:1fr;
+	font-family: 'Merriweather', serif;
+}
